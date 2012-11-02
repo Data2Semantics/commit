@@ -1,3 +1,3 @@
 [submodule "catalog"]
 	path = catalog
-	url = https://github.com/Data2Semantics/COMMITCatalog.git
+	url = https://github.com/Data2Semantics/commit-catalog.git
